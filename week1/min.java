@@ -1,3 +1,3 @@
  double min(double x,  double y) {
-    return x<y ? y : x;
+    return x<y ? x : y;
 }
