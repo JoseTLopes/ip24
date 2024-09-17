@@ -1,3 +1,3 @@
-public static boolean isDigit(int x) {
+boolean isDigit(int x) {
     return x > -1 && x < 10;
 }
